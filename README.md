@@ -5,14 +5,14 @@ Welcome to the **PDF Text Extraction & Markdown Cleansing** project! This reposi
 ---
 
 ## 📑 Table of Contents
-1. [📋 Project Overview](#project-overview)
-2. [✨ Key Features](#key-features)
-3. [🔧 Installation & Setup](#installation--setup)
-4. [🚀 Workflow](#workflow)
-5. [📝 Usage Guide](#usage-guide)
+1. [📋 Project Overview](#-project-overview)
+2. [✨ Key Features](#-key-features)
+3. [🔧 Installation & Setup](#-installation--setup)
+4. [🚀 Workflow](#-workflow)
+5. [📝 Usage Guide](#-usage-guide)
     - [1️⃣ Terminal Commands for Text Extraction](#1️⃣-terminal-commands-for-text-extraction)
     - [2️⃣ Streamlit App for Markdown Cleansing](#2️⃣-streamlit-app-for-markdown-cleansing)
-6. [📂 Folder Structure](#folder-structure)
+6. [📂 Folder Structure](#-folder-structure)
 7. [🔗 General Links & Resources](#-general-links--resources)
 
 ---
